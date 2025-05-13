@@ -20,7 +20,7 @@ Tkinter (intégré dans Python, aucun besoin d’installation supplémentaire)
 
 ▶️ Lancement de l'application
 Cloner ce dépôt :
-  git clone https://github.com/votre-utilisateur/calculatrice-python.git
+  git clone https://github.com/Frejuste26/calculatrice.git
   cd calculatrice-python
 
 Lancer l'application :
@@ -29,12 +29,11 @@ Lancer l'application :
 💡 Assure-toi d’avoir Python installé sur ta machine.
 
 📁 Arborescence
-calculatrice-python/
+calculatrice/
 │
 ├── calculator.py       # Fichier principal contenant tout le code
 ├── README.md           # Ce fichier
-└── assets/
-    └── screenshot.png  # Capture de l'application
+└── screenshot.png  # Capture de l'application
 
 📃 Licence
 Projet open-source sous licence MIT.
