@@ -2,7 +2,7 @@
 Une application de calculatrice simple et élégante développée en Python avec l'interface graphique Tkinter.
 
 📸 Capture d'écran
-<img src="https://user-images.githubusercontent.com/yourusername/yourimage.png" alt="Calculator Screenshot" width="400"/>
+<img src="./screenshot.png" alt="Calculator Screenshot" width="400"/>
 
 🚀 Fonctionnalités
 ✅ Interface graphique moderne avec Tkinter
